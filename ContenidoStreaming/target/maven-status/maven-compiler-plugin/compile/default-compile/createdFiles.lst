@@ -1,0 +1,5 @@
+com\smsl\msa\contenidostreaming\ContenidoStreamingApplication.class
+com\smsl\msa\contenidostreaming\repository\ContenidoRepository.class
+com\smsl\msa\contenidostreaming\service\ContenidoService.class
+com\smsl\msa\contenidostreaming\controller\ContenidoController.class
+com\smsl\msa\contenidostreaming\entity\ContenidoEntity.class
